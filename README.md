@@ -1,13 +1,14 @@
 
-# Carb-pool (Presentation Link: https://www.canva.com/design/DAFupxuxsvc/0C2iO5jECyUlllmukw0u3Q/edit?utm_content=DAFupxuxsvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Carb-pool ([Presentation Link](https://www.canva.com/design/DAFupxuxsvc/0C2iO5jECyUlllmukw0u3Q/edit?utm_content=DAFupxuxsvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 An efficient carpooling solution that connects people to reduce the overall carbon footprint.
-https://github.com/Kashish-G/technovate_noname.csv/blob/main/Application%20screenshot.png
 
 ## Authors
 - [@Kashish-G](https://github.com/Kashish-G)
 - [@krishij03](https://github.com/krishij03)
 - [@jasleengill2003](https://github.com/jasleengill2003)
 - [@FreshAv0cad0](https://github.com/FreshAv0cad0)
+
+![image](https://github.com/Kashish-G/technovate_noname.csv/blob/main/Application%20screenshot.png)
 
 ## Problem Statement
 The increasing traffic congestion and environmental concerns in urban areas necessitate an innovative carpooling solution. Our goal is to develop a data-driven carpooling platform that uses AI/ML algorithms to efficiently connect commuters, optimize routes, and reduce traffic congestion. This platform addresses challenges such as matching compatible users, calculating fares, predicting peak demand, ensuring safety, enabling transparent cost-sharing, and incentivizing carpooling during high-demand times.
